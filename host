@@ -1,0 +1,7 @@
+127.0.0.1       localhost
+::1             ip6-localhost
+
+127.0.0.1 in-lobby.globh.com
+127.0.0.1 in-f.globh.com
+127.0.0.1 3001-shadow.globh.com
+127.0.0.1 in-cloudctrl.globh.com
